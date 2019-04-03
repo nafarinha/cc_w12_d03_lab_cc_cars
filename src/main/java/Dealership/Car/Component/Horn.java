@@ -1,4 +1,4 @@
 package Dealership.Car.Component;
 
-public class Horn {
+public class Horn extends Component {
 }
